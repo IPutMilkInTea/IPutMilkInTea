@@ -1,6 +1,6 @@
 ## Description
 
-Hi, I'm an aspiring AI & data engineer currently in his 3rd year of studying IT. Currently, I'm following a graduate program before returning to finsish my bachelor's degree.
+I'm an aspiring AI & data engineer currently in his 3rd year of studying IT. Currently, I'm following a graduate program before returning to finsish my bachelor's degree.
 
 ---
 
