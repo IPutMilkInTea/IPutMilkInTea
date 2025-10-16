@@ -1,6 +1,7 @@
-## Description
+## Hi, I'm Jonas
 
-I'm an aspiring AI & data engineer currently in his 3rd year of studying IT. Currently, I'm following a graduate program before returning to finsish my bachelor's degree.
+I'm an aspiring AI & data engineer in his 3rd year of studying IT. Currently, I'm following a graduate program before returning to finsish my bachelor's degree. I started coding at the age of 12 and have been into it ever since. <br/>
+At the moment, I help teach young kids to code on weekends as part of [Codefever](https://codefever.be/en)
 
 ---
 
@@ -16,18 +17,11 @@ I'm an aspiring AI & data engineer currently in his 3rd year of studying IT. Cur
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
 <br/>
 
+#
+
 ### Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IPutMilkInTea&show_icons=true&theme=tokyonight)
+<br/>
 
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
