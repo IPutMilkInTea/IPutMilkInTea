@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I'm an aspiring AI & data engineer in his 3rd year of studying IT. Currently, I'm following a graduate program before returning to finsish my bachelor's degree. I started coding at the age of 12 and have been into it ever since. <br/>
+I'm an aspiring AI & data engineer in his 3rd year of studying IT. Currently, I'm following a graduate program before returning to finish my bachelor's degree. I started coding at the age of 12 and have been into it ever since. <br/>
 At the moment, I help teach kids to code on weekends as part of [Codefever](https://codefever.be/en)
 
 ---
